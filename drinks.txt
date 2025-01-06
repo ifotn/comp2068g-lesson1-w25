@@ -1,0 +1,7 @@
+coffee
+root beer
+water
+hot chocolate
+milk
+tea
+frozen lemonade
